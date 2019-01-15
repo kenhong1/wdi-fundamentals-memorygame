@@ -1,0 +1,85 @@
+
+body {
+text-align: center;
+margin: auto;
+font-family: Raleway;
+}
+
+header {
+  background-color: #F15B31;
+  color: #ffffff;
+  padding: 30px 20px 30px 20px;
+  font-family: Raleway;
+}
+
+h1{
+  margin: 0;
+}
+
+nav {
+  background-color: #00A6B3;
+  font: #ffffff;
+  padding: 20px;
+}
+
+nav a {
+  margin: 0 20px 0 20px;
+  font-family: Raleway;
+}
+
+main {
+  width: 850;
+  margin: 35px auto 35px auto;
+  font-family: Raleway;
+}
+
+img {
+  margin: 40px 8px 0 8px;
+}
+
+footer {
+  text: uppercase;
+  padding: 0 20px 0 20px;
+  background: #0D2C40;
+  color: white;
+  font-size: 14px;
+  letter-spacing: .08em;
+  font-weight: 500;
+}
+
+p {
+  font-family: Raleway;
+}
+
+.copyright {
+  float: left;
+}
+
+.message {
+  float: right;
+}
+
+.clearfix:after {
+ visibility: hidden;
+display: block;
+content: " ";
+clear: both;
+height: 0;
+font-size: 0;
+}
+
+.name{
+  color: #F15B31;
+  font-weight: 700;
+}
+
+a {
+ border-bottom: 2px solid transparent;
+}
+
+.a:hover {
+border-color: white;
+}
+
+
+
